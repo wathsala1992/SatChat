@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain_huggingface
+huggingface_hub
+transformers
+unstructured
+torch
+python-terrier
+fastapi
+uvicorn
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-gpu
+skyfield
